@@ -1,7 +1,5 @@
 # Permission related research
 
-Date Created: Mar 15, 2021 11:01 AM
-Status 2: 執行中
 
 [https://docs.google.com/document/d/1idfspLFv9Nsya-P1fgMjAgp_Wau6yoCzBicKLbvczcU/edit?ts=604a1b9a#heading=h.gaxojdk7uixn](https://docs.google.com/document/d/1idfspLFv9Nsya-P1fgMjAgp_Wau6yoCzBicKLbvczcU/edit?ts=604a1b9a#heading=h.gaxojdk7uixn)
 

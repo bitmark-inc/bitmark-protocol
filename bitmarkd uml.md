@@ -1,7 +1,5 @@
 # bitmarkd uml
 
-Date Created: Mar 18, 2021 11:59 AM
-Status 2: 執行中
 
 ```
 sudo apt-get update

@@ -1,7 +1,5 @@
 # Schnorr
 
-Date Created: Mar 15, 2021 10:52 AM
-Status 2: 低優先權
 
 There's a lot of good links here related to next steps.
 
